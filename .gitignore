@@ -1,0 +1,13 @@
+.idea
+*.iml
+m2/*
+.DS_Store
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
